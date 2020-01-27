@@ -7,7 +7,7 @@ def using_unshift(array, string)
 end
 
 def using_pop
-  puts array.pop
+  continents.pop
 end
 
 def pop_with_args
